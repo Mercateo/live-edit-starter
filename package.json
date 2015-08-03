@@ -1,0 +1,19 @@
+{
+  "name": "live-edit-starter",
+  "scripts": {
+    "start": "gulp",
+    "watch": "gulp watch",
+    "serve": "gulp serve",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.8.1",
+    "bs-html-injector": "^2.0.4",
+    "fb-flo": "^0.4.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.3",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
