@@ -1,3 +1,5 @@
+This project is unmantained, deprecated and goes into archive with followup removal in 2 years.
+
 # live-edit-starter
 
 > A starter template which shows how to get live editing features for CSS, HTML and JS.
